@@ -1,0 +1,9 @@
+{
+    "name": "27cm/php-interview",
+    "type": "project",
+    "autoload": {
+        "psr-0": {
+            "": "src"
+        }
+    }
+}
