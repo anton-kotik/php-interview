@@ -20,7 +20,9 @@ C1 61 27 57  4 16  0 84
 C2 89 31 79 99 90 78  0
 ```
 
-Solve the problems below. Feel free to use Google, StackOverflow, and PHP documentation if needed.
+Solve the problems below. Feel free to use Google, StackOverflow, and PHP documentation if needed.<br>
+You you don't have to write your own file parser, there's already a `FilePaster` class in the code.<br>
+You can modify the code if needed.
 
 ### Problem 1
 Find the nearest order to the courier. Modify the script `problem1.php` so that it returns<br>
